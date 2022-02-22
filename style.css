@@ -1,3 +1,8 @@
 body{
     background-color: gray;
 }
+
+small{
+    background-color: teal;
+    color: white;
+}
