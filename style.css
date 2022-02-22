@@ -2,21 +2,7 @@ body{
     background-color: gray;
 }
 
-<<<<<<< HEAD
 small{
     background-color: teal;
     color: white;
-=======
-.container{
-    width: 80%;
-    padding: 1rem;
-    margin: auto;
-    text-align: center;
-    
-}
-.cabezera{
-    background-color: blue;
-    color: white;
-    font-weight: bold;
->>>>>>> cabezera
 }
